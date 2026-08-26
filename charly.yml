@@ -87,7 +87,7 @@ steam-skill:
             sway-browser-vnc-steam:
               base: nvidia
               candy:
-                - sway-desktop-vnc
+                - '@github.com/opencharly/layer-sway-desktop-vnc:v2026.237.1056'
                 - steam
             ```
             
